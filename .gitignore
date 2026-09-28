@@ -3,3 +3,7 @@ commit_out.txt
 # Rust build artifacts
 target/
 *.rs.bk
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
